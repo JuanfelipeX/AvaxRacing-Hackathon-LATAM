@@ -15,9 +15,11 @@ In Live For Speed, we have integrated various solutions from Avalanche to enhanc
 
 ![image](https://github.com/user-attachments/assets/a11d9dea-3501-4313-b066-bcaa3293f201)
 
-Deploy ERC-20
+## Deploy ERC-20
 
 ![image](https://github.com/user-attachments/assets/05e85907-291e-44a4-a59b-4e6206da4ad9)
+
+## ICTT (To deploy the contracts and transfer the tokens)
 
 ![image](https://github.com/user-attachments/assets/2c9a560d-2026-4bfc-baa3-1fd173becf88)
 
